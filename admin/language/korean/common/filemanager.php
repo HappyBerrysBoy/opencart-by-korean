@@ -1,46 +1,46 @@
 <?php
 // Heading
-$_['heading_title']    = 'Image Manager';
+$_['heading_title']    = '이미지 관리';
  
 // Text
-$_['text_uploaded']    = 'Success: Your file has been uploaded!';
-$_['text_file_delete'] = 'File has been deleted!';
-$_['text_create']      = 'Success: Directory created!';
-$_['text_delete']      = 'Success: Your file or directory has been deleted!';
-$_['text_move']        = 'Success: Your file or directory has been moved!';
-$_['text_copy']        = 'Success: Your file or directory has been copied!';
-$_['text_rename']      = 'Success: Your file or directory has been renamed!';
+$_['text_uploaded']    = '성공: 파일업로드가 완료되었습니다.';
+$_['text_file_delete'] = '파일이 삭제되었습니다.';
+$_['text_create']      = '성공: 폴더를 생성하였습니다.';
+$_['text_delete']      = '성공: 파일 또는 폴더가 삭제 되었습니다.';
+$_['text_move']        = '성공: 파일 또는 폴더가 이동 되었습니다.';
+$_['text_copy']        = '성공: 파일 또는 폴더가 복사 되었습니다.';
+$_['text_rename']      = '성공: 파일 또는 폴더가 변경 되었습니다.';
 
 // Entry
-$_['entry_folder']     = 'New Folder:';
-$_['entry_move']       = 'Move:';
-$_['entry_copy']       = 'Name:';
-$_['entry_rename']     = 'Name:';
+$_['entry_folder']     = '새폴더:';
+$_['entry_move']       = '이동:';
+$_['entry_copy']       = '이름:';
+$_['entry_rename']     = '이름:';
 
 // Error
-$_['error_select']     = 'Warning: Please select a directory or file!';
-$_['error_file']       = 'Warning: Please select a file!';
-$_['error_directory']  = 'Warning: Please select a directory!';
-$_['error_default']    = 'Warning: Can not alter your default directory!';
-$_['error_delete']     = 'Warning: You can not delete this directory!';
-$_['error_filename']   = 'Warning: Filename must be a between 3 and 255!';
-$_['error_missing']    = 'Warning: File or directory does not exist!';
-$_['error_exists']     = 'Warning: A file or directory with the same name already exists!';
-$_['error_name']       = 'Warning: Please enter a new name!';
-$_['error_move']       = 'Warning: Move to directory does not exists!';
-$_['error_copy']       = 'Warning: Can not copy this file or directory!';
-$_['error_rename']     = 'Warning: Can not rename this directory!';
-$_['error_file_type']  = 'Warning: Incorrect file type!';
-$_['error_file_size']  = 'Warning: File to big please keep below 300kb and no more than 1000px height or width!';
-$_['error_uploaded']   = 'Warning: File could not be uploaded for an unknown reason!';
-$_['error_permission'] = 'Warning: Permission Denied!';
+$_['error_select']     = '경고: 폴더 또는 파일을 선택하세요!';
+$_['error_file']       = '경고: 파일을 선택하세요!';
+$_['error_directory']  = '경고: 폴더를 선택하세요!';
+$_['error_default']    = '경고: 기본 폴더는 수정을 못합니다.';
+$_['error_delete']     = '경고: 이 폴더는 삭제를 못합니다.';
+$_['error_filename']   = '경고: 파일이름은 3자에서 255자이하로 입력하세요';
+$_['error_missing']    = '경고: 폴더 또는 파일이 없습니다.';
+$_['error_exists']     = '경고: 같은 이름의 폴더 또는 파일이 이미 있습니다.';
+$_['error_name']       = '경고: 새로운 이름을 입력하세요!';
+$_['error_move']       = '경고: 이동한 폴더가 생성되어 있지 않습니다.';
+$_['error_copy']       = '경고: 폴더 또는 파일을 복사 할 수 없습니다.';
+$_['error_rename']     = '경고: 폴더이름을 변경할 수 없습니다.';
+$_['error_file_type']  = '경고: 파일타입이 올바르지 않습니다.';
+$_['error_file_size']  = '경고: 파일크기는 300kb 이며 사이즈는 1000px 이하여야 합니다.';
+$_['error_uploaded']   = '경고: 알수없는 에러로 업로드 할 수가 없습니다.';
+$_['error_permission'] = '경고: 서버접근 권한이 없습니다.';
 
 // Button
-$_['button_folder']    = 'New Folder';
-$_['button_delete']    = 'Delete';
-$_['button_move']      = 'Move';
-$_['button_copy']      = 'Copy';
-$_['button_rename']    = 'Rename';
-$_['button_upload']    = 'Upload';
-$_['button_refresh']   = 'Refresh';
+$_['button_folder']    = '새폴더';
+$_['button_delete']    = '삭제';
+$_['button_move']      = '이동';
+$_['button_copy']      = '복사';
+$_['button_rename']    = '변경';
+$_['button_upload']    = '업로드';
+$_['button_refresh']   = '새로고침';
 ?>

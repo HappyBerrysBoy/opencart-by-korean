@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Yahoo';
+$_['heading_title']    = '야후';
 
 // Text 
 $_['text_payment']     = 'Product Feeds';

@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']   = 'Products Purchased Report';
+$_['heading_title']   = '상품 구입 레포트';
 
 // Column
-$_['column_name']     = 'Product Name';
-$_['column_model']    = 'Model';
-$_['column_quantity'] = 'Quantity';
-$_['column_total']    = 'Total';
+$_['column_name']     = '상품이름';
+$_['column_model']    = '모델';
+$_['column_quantity'] = '수량';
+$_['column_total']    = '합계';
 ?>

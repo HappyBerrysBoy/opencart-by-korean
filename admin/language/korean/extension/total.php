@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']     = 'Order Totals';
+$_['heading_title']     = '주문 합계';
 
 // Text
-$_['text_install']      = 'Install';
-$_['text_uninstall']    = 'Uninstall';
+$_['text_install']      = '설치';
+$_['text_uninstall']    = '삭제';
 
 // Column
-$_['column_name']       = 'Order Totals';
-$_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
+$_['column_name']       = '주문 합계';
+$_['column_status']     = '상태';
+$_['column_sort_order'] = '정렬순서';
 $_['column_action']     = 'Action';
 ?>
