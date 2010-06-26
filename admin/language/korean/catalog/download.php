@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']    = 'Downloads';
+$_['heading_title']    = '다운로드';
 
 // Text
-$_['text_success']     = 'Success: You have modified downloads!';
+$_['text_success']     = '성공: 다운로드가 수정되었습니다.';
 
 // Column
-$_['column_name']      = 'Download Name';
-$_['column_remaining'] = 'Total Downloads Allowed';
+$_['column_name']      = '다운로드 이름';
+$_['column_remaining'] = '합계 Downloads Allowed';
 $_['column_action']    = 'Action';
 
 // Entry
