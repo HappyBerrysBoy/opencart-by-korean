@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']      = 'Weight Based Shipping';
+$_['heading_title']      = '중량기준 배송';
 
 // Text
-$_['text_shipping']      = 'Shipping';
-$_['text_success']       = 'Success: You have modified weight based shipping!';
+$_['text_shipping']      = '배송';
+$_['text_success']       = '성공: 배송정보가 변경되었습니다.';
 
 // Entry
-$_['entry_rate']         = 'Rates:<br /><span class="help">Example: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..</span>';
-$_['entry_tax']          = 'Tax Class:';
+$_['entry_rate']         = '요율:<br /><span class="help">Example: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..</span>';
+$_['entry_tax']          = '세금 Class:';
 $_['entry_geo_zone']     = 'Geo Zone:';
-$_['entry_status']       = 'Status:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_status']       = '상태:';
+$_['entry_sort_order']   = '정렬순서:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify weight based shipping!';
+$_['error_permission']   = '경고: 정보를 변경할 권한이 없습니다.';
 ?>

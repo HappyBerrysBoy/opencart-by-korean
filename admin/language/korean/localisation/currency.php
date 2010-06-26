@@ -1,31 +1,31 @@
 <?php
 // Heading
-$_['heading_title']        = 'Currency';  
+$_['heading_title']        = '환율';  
 
 // Text
-$_['text_success']         = 'Success: You have modified currencies!';
+$_['text_success']         = '성공: 환율정보가 변경되었습니다.';
 
 // Column
-$_['column_title']         = 'Currency Title';
-$_['column_code']          = 'Code'; 
-$_['column_value']         = 'Value';
-$_['column_date_modified'] = 'Last Updated';
+$_['column_title']         = '환율타이틀';
+$_['column_code']          = '코드'; 
+$_['column_value']         = '값';
+$_['column_date_modified'] = '최근 업데이트';
 $_['column_action']        = 'Action';
 
 // Entry
-$_['entry_title']          = 'Currency Title:';
-$_['entry_code']           = 'Code:<br /><span class="help">Do not change if this is your default currency.</span>';
-$_['entry_value']          = 'Value:<br /><span class="help">Set to 1.00000 if this is your default currency.</span>';
-$_['entry_symbol_left']    = 'Symbol Left:';
-$_['entry_symbol_right']   = 'Symbol Right:';
-$_['entry_decimal_place']  = 'Decimal Places:';
-$_['entry_status']         = 'Status:';
+$_['entry_title']          = '환율타이틀:';
+$_['entry_code']           = '코드:<br /><span class="help">기본값으로 사용되고 있다면 수정하지 마세요.</span>';
+$_['entry_value']          = '값:<br /><span class="help">Set to 1.00000 만약 기본값이면..</span>';
+$_['entry_symbol_left']    = '왼쪽 기호:';
+$_['entry_symbol_right']   = '오른쪽 기호:';
+$_['entry_decimal_place']  = '소수점 자리수:';
+$_['entry_status']         = '상태:';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify currencies!';
-$_['error_title']          = 'Currency Title must be between 3 and 32 characters!';
-$_['error_code']           = 'Currency Code must contain 3 characters!';
-$_['error_default']        = 'Warning: This currency cannot be deleted as it is currently assigned as the default store currency!';
-$_['error_store']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission']     = '경고: 정보를 변경할 권한이 없습니다.';
+$_['error_title']          = '환율타이틀은 3자에서 32자 이하여야 합니다.';
+$_['error_code']           = '환율코드는 3자리여야 합니다.';
+$_['error_default']        = '경고: 현재 환율코드가 사용중이므로 삭제할 수 없습니다.';
+$_['error_store']          = '경고: 현재 환율코드가 %s 상점에서 사용되고 있으므로 삭제할 수 없습니다.';
+$_['error_order']          = '경고: 현재 환율코드가 %s 주문정보에서 사용중이므로 삭제할 수 없습니다.';
 ?>

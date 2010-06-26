@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Your Account has been activated!';
-$_['text_welcome']  = 'Welcome and thank you for registering at %s!';
-$_['text_login']    = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_services'] = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
-$_['text_thanks']   = 'Thanks,';
+$_['text_subject']  = '%s - 고객님의 계정이 승인 되었습니다.';
+$_['text_welcome']  = '저희 %s 쇼핑몰에 가입하여 주셔서 감사합니다.';
+$_['text_login']    = '고객님의 계정이 생성되었습니다. 아래주로 로그인하시면 서비스를 받으 실 수 있습니다.';
+$_['text_services'] = '로그인 하시면 저희 쇼핑몰에서 다양한 서비스를 받으실 수 있습니다.';
+$_['text_thanks']   = '감사합니다,';
 ?>

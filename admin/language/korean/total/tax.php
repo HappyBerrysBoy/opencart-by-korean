@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Taxes';
+$_['heading_title']    = '세금';
 
 // Text
-$_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Success: You have modified total taxes!';
+$_['text_total']       = '주문합계';
+$_['text_success']     = '성공: 세금합계 정보가 변경되었습니다.';
 
 // Entry
-$_['entry_status']     = 'Status:';
-$_['entry_sort_order'] = 'Sort Order:';
+$_['entry_status']     = '상태:';
+$_['entry_sort_order'] = '정렬순서:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify total taxes!';
+$_['error_permission'] = '경고: 정보를 변경할 권한이 없습니다.';
 ?>

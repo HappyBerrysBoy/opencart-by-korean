@@ -1,7 +1,7 @@
 <?php
 // Heading
-$_['heading_title'] = 'Error Log';
+$_['heading_title'] = '에러로그';
 
 // Text
-$_['text_success']  = 'Success: You have successfully cleared your error log!';
+$_['text_success']  = '성공: 에러로그를 비웠습니다.';
 ?>
