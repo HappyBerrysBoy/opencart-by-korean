@@ -1,11 +1,11 @@
 <?php
 // Heading 
-$_['heading_title']         = '손님 주문하기 - Step 2';
+$_['heading_title']         = '비회원 주문하기 - Step 2';
  
 // Text
 $_['text_cart']             = '장바구니';
-$_['text_guest_step_1']     = '손님 주문하기 - Step 1';
-$_['text_guest_step_2']     = '손님 주문하기 - Step 2';
+$_['text_guest_step_1']     = '비회원 주문하기 - Step 1';
+$_['text_guest_step_2']     = '비회원 주문하기 - Step 2';
 $_['text_shipping_method']  = '배송방법';
 $_['text_shipping_methods'] = '배송방법을 선택해 주세요.';
 $_['text_payment_method']   = '결제방법';

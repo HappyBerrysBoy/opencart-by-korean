@@ -24,7 +24,7 @@ $_['entry_tax']               = '가격 + 세금 표시:';
 $_['entry_customer_group']    = '고객그룹:<br /><span class="help">기본 고객그룹</span>';
 $_['entry_customer_price']    = '로그인후 가격표시:<br /><span class="help">고객이 로그인 했을시 가격표시</span>';
 $_['entry_customer_approval'] = '신규고객 승인:<br /><span class="help">신규고객이 이메일 확인전까지 승인을 하지 마세요!</span>';
-$_['entry_guest_checkout']    = '손님 주문하기:<br /><span class="help">손님주문하기를 허용합니다. 그러나 다운로드 상품은 장바구니에 저장되지 않습니다.</span>';
+$_['entry_guest_checkout']    = '비회원 주문하기:<br /><span class="help">손님주문하기를 허용합니다. 그러나 다운로드 상품은 장바구니에 저장되지 않습니다.</span>';
 $_['entry_account']           = '회원가입약관:<br /><span class="help">어카운트를 생성하기 전에 약관동의 하기.</span>';
 $_['entry_checkout']          = '주문및결제 약관:<br /><span class="help">주문완료하기전에 약관에 동의하기.</span>';
 $_['entry_order_status']      = '주문상태:<br /><span class="help">주문이 들어오면 기본 주문상태 설정하기.</span>';
