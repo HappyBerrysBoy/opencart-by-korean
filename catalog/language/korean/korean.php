@@ -38,5 +38,5 @@ $_['button_view']           = '보기';
 $_['button_search']         = '검색';
 $_['button_go']             = '확인';
 $_['button_coupon']         = '쿠폰적용';
-$_['button_guest']          = '손님주문';
+$_['button_guest']          = '비회원 주문';
 ?>

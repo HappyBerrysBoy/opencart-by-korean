@@ -1,10 +1,10 @@
 <?php
 // Heading 
-$_['heading_title']     	= '손님주문 - Step 1';
+$_['heading_title']     	= '비회원 주문 - Step 1';
 
 // Text
 $_['text_cart']         	= '장바구니';
-$_['text_guest_step_1'] 	= '손님주문 - Step 1';
+$_['text_guest_step_1'] 	= '비회원 주문 - Step 1';
 $_['text_your_details'] 	= '고객 상세정보';
 $_['text_your_address'] 	= '주소';
 $_['text_shipping_address'] = '배송주소';

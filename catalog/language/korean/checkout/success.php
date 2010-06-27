@@ -7,7 +7,7 @@ $_['text_message']  = '<p>주문이 성공적으로 처리되었습니다.</p><p
 $_['text_basket']   = '장바구니';
 $_['text_shipping'] = '배송';
 $_['text_payment']  = '결제';
-$_['text_guest']    = '손님 주문';
+$_['text_guest']    = '비회원 주문';
 $_['text_confirm']  = '확인';
 $_['text_success']  = '성공';
 ?>
