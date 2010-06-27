@@ -10,8 +10,8 @@ $_['text_checkout']                = '주문 옵션:';
 $_['text_account']                 = '신규 회원가입';
 $_['text_guest']                   = '비회원 주문하기';
 $_['text_create_account']          = '회원가입 하시면 쇼핑몰을 더 편하게 이용하실 수 있습니다.';
-$_['text_returning_customer']      = '재가입 회원';
-$_['text_i_am_returning_customer'] = '재가입 회원입니다.';
+$_['text_returning_customer']      = '등록된 회원';
+$_['text_i_am_returning_customer'] = '등록된 회원입니다.';
 $_['text_forgotten_password']      = '패스워드 찾기';
 
 // Entry
