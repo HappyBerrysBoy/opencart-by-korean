@@ -60,7 +60,7 @@ $_['button_generate']         = '만들기';
 
 // Tab
 $_['tab_admin']               = '관리자';
-$_['tab_data']                = '날짜';
+$_['tab_data']                = '상품설정';
 $_['tab_discount']            = '할인';
 $_['tab_general']             = '일반';
 $_['tab_image']               = '이미지';
